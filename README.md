@@ -7,6 +7,4 @@
     chrome:\\dino in P4's Assembly (http://p4.rnl.tecnico.ulisboa.pt/)
 
 
-Made by: Tiago Vieira da Silva
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;João Silva
+Made by: Tiago Vieira da Silva and João Silva
