@@ -1,4 +1,4 @@
-# ProjetoIAC
+# dino-game
 
 🇵🇹 - Projeto de Arquitetura de Computadores, 2020/21:
     chrome:\\\dino em Assembly do P4 (http://p4.rnl.tecnico.ulisboa.pt/)
